@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Deco',
   description: '扬灵的装修记录',
-  head: [['link', {rel: 'icon', href: '/favicon.ico'}]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -21,7 +21,7 @@ export default defineConfig({
         ],
       },
     ],
-
+    cleanUrls: true,
     // socialLinks: [
     //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     // ]
