@@ -5,11 +5,11 @@ layout: home
 hero:
   name: "Deco"
   text: "扬灵的装修记录"
-  tagline: My great project tagline
+  tagline: 瑞马世家二期装修过程记录
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 智能家居设计
+      link: /smart
     - theme: alt
       text: API Examples
       link: /api-examples
